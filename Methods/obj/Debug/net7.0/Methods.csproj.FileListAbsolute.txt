@@ -1,0 +1,15 @@
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/bin/Debug/net7.0/Methods
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/bin/Debug/net7.0/Methods.deps.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/bin/Debug/net7.0/Methods.runtimeconfig.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/bin/Debug/net7.0/Methods.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/bin/Debug/net7.0/Methods.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/Methods.csproj.AssemblyReference.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/Methods.AssemblyInfoInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/Methods.AssemblyInfo.cs
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/Methods.csproj.CoreCompileInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/Methods.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/refint/Methods.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/Methods.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/Methods.genruntimeconfig.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Methods/obj/Debug/net7.0/ref/Methods.dll
