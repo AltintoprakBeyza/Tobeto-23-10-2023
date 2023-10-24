@@ -1,0 +1,5 @@
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/ConditionsAndIfStatements/obj/Debug/net7.0/ConditionsAndIfStatements.csproj.AssemblyReference.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/ConditionsAndIfStatements/obj/Debug/net7.0/ConditionsAndIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/ConditionsAndIfStatements/obj/Debug/net7.0/ConditionsAndIfStatements.AssemblyInfoInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/ConditionsAndIfStatements/obj/Debug/net7.0/ConditionsAndIfStatements.AssemblyInfo.cs
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/ConditionsAndIfStatements/obj/Debug/net7.0/ConditionsAndIfStatements.csproj.CoreCompileInputs.cache

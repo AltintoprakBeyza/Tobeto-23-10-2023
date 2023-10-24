@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{79CC29A9-BD03-425D-BCC4-63D833F882C9}|Default" GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{D6FB9E3D-3B15-4827-8DC7-8F6FB8658021}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
@@ -25,4 +25,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
