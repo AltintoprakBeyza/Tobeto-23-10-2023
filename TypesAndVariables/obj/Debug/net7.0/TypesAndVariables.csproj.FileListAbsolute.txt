@@ -1,0 +1,15 @@
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.deps.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.runtimeconfig.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/bin/Debug/net7.0/TypesAndVariables.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.AssemblyReference.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfoInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.AssemblyInfo.cs
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.csproj.CoreCompileInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/refint/TypesAndVariables.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/TypesAndVariables.genruntimeconfig.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/TypesAndVariables/obj/Debug/net7.0/ref/TypesAndVariables.dll
