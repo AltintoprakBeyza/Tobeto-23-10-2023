@@ -1,4 +1,4 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4F104B08-6A1A-43B7-8538-2CD28EC1C435}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{52D4B38F-124A-481A-8F26-DAE8FBE51B75}|Default">
   <MonoDevelop.Ide.ItemProperties.Arrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
@@ -19,6 +19,7 @@
   <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Loops FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
