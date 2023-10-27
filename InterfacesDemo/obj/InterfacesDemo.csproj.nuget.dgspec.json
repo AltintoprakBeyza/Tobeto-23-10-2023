@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/InterfacesDemo.csproj": {}
+  },
+  "projects": {
+    "/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/InterfacesDemo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/InterfacesDemo.csproj",
+        "projectName": "InterfacesDemo",
+        "projectPath": "/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/InterfacesDemo.csproj",
+        "packagesPath": "/Users/beyza/.nuget/packages/",
+        "outputPath": "/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/beyza/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{75411E7B-5EFB-47C9-B6E2-395E4087F854}|Default" GitUserInfo="UsingGIT">
+﻿<Properties StartupConfiguration="{B31EEAC4-D0FE-4943-90FB-09197A38B8A5}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.Strings FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Pair2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
@@ -27,6 +27,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.InterfacesDemo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

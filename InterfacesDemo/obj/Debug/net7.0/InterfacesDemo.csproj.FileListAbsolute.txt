@@ -1,0 +1,15 @@
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo.deps.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo.runtimeconfig.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/bin/Debug/net7.0/InterfacesDemo.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.csproj.AssemblyReference.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.AssemblyInfoInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.AssemblyInfo.cs
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.csproj.CoreCompileInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/refint/InterfacesDemo.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/InterfacesDemo.genruntimeconfig.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/InterfacesDemo/obj/Debug/net7.0/ref/InterfacesDemo.dll
