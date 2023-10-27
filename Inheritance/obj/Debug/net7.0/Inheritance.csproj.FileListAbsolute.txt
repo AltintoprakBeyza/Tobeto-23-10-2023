@@ -1,0 +1,15 @@
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/bin/Debug/net7.0/Inheritance
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/bin/Debug/net7.0/Inheritance.deps.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/bin/Debug/net7.0/Inheritance.runtimeconfig.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/bin/Debug/net7.0/Inheritance.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/bin/Debug/net7.0/Inheritance.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/Inheritance.csproj.AssemblyReference.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfoInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/Inheritance.AssemblyInfo.cs
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/Inheritance.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/refint/Inheritance.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/Inheritance.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/Inheritance.genruntimeconfig.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Inheritance/obj/Debug/net7.0/ref/Inheritance.dll
