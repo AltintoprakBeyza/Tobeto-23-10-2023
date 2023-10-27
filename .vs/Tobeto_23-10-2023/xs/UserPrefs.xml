@@ -1,27 +1,33 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{52D4B38F-124A-481A-8F26-DAE8FBE51B75}|Default">
-  <MonoDevelop.Ide.ItemProperties.Arrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{8FF1425F-EA3E-4696-A138-3891563F5346}|Default" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.Strings FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Pair2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Arrays FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Loops FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.TypesAndVariables PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Methods/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces/Program.cs">
     <Files>
-      <File FileName="TypesAndVariables/Program.cs" Line="30" Column="1" />
-      <File FileName="ConditionsAndIfStatements/Program.cs" Line="15" Column="1" />
-      <File FileName="Methods/Program.cs" Line="21" Column="1" />
+      <File FileName="Classes/Program.cs" Line="30" Column="10" />
+      <File FileName="Classes/Customer.cs" Line="18" Column="1" />
+      <File FileName="Interfaces/Program.cs" Line="33" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
+        <State name="__root__">
+          <Node name="Tobeto_23-10-2023" expanded="True">
+            <Node name="Interfaces">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.Methods PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Loops FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Classes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

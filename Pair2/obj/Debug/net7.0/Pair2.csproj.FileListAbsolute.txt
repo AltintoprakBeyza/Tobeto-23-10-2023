@@ -1,0 +1,15 @@
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/bin/Debug/net7.0/Pair2
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/bin/Debug/net7.0/Pair2.deps.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/bin/Debug/net7.0/Pair2.runtimeconfig.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/bin/Debug/net7.0/Pair2.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/bin/Debug/net7.0/Pair2.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/Pair2.csproj.AssemblyReference.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/Pair2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/Pair2.AssemblyInfoInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/Pair2.AssemblyInfo.cs
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/Pair2.csproj.CoreCompileInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/Pair2.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/refint/Pair2.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/Pair2.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/Pair2.genruntimeconfig.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Pair2/obj/Debug/net7.0/ref/Pair2.dll

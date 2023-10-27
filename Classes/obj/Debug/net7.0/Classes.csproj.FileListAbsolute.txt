@@ -1,0 +1,15 @@
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/bin/Debug/net7.0/Classes
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/bin/Debug/net7.0/Classes.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/Classes.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/beyza/Desktop/Tobeto/Tobeto-23-10-2023/Classes/obj/Debug/net7.0/ref/Classes.dll
